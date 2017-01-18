@@ -1,5 +1,5 @@
 # hello-world
 
-hello ther!
+hello there!
 
 This is just a test
